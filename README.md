@@ -36,13 +36,12 @@ O sistema foi desenvolvido com foco em praticidade, organização e experiência
 #  Requisitos do Sistema
 
 ## Requisitos Funcionais
-
-- RF01 — O sistema deve permitir a visualização de livros.
-- RF02 — O sistema deve permitir explorar obras literárias.
-- RF03 — O sistema deve exibir informações sobre os livros.
-- RF04 — O sistema deve auxiliar na organização das leituras.
-- RF05 — O sistema deve permitir a descoberta de novas obras.
-
+* RF01 — O sistema deve permitir a visualização de livros.
+* RF02 — O sistema deve exibir informações sobre as obras literárias.
+* RF03 — O sistema deve permitir o cadastro e login de usuários.
+* RF04 — O usuário deve poder organizar suas leituras.
+* RF05 — O sistema deve permitir a descoberta de novos livros.
+  
 ## Requisitos Não Funcionais
 
 - RNF01 — O sistema deve possuir interface responsiva.
